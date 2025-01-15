@@ -4,7 +4,7 @@
 
 import math
 import random
-from Tkinter import * # Change "Tkinter" to "tkinter" in Python 3
+from tkinter import *
 
 # Utility functions
 
